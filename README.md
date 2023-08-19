@@ -7,3 +7,6 @@
 (It can also be used to perform auto normal attacks, example: fast bow shooting)
 #### Note
 * In case of switching windows while the script is running, you can turn it off by pressing the 'Esc' key.
+
+alternatively, user KimoriWasTaken has also added randomness to the script to lessen detection:
+https://github.com/drhouse/Genshin-Cutscene-Auto-Fastforward/issues/1#issue-1857735199
